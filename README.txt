@@ -1,0 +1,2 @@
+This code is originally from https://www.pythonforbeginners.com/code-snippets-source-code/game-hangman.
+the code was in python 2. I have updated it to python 3. Please use to assist you in your journey to learning.
